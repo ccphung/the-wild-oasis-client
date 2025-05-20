@@ -24,9 +24,8 @@ Ce projet a été réalisé dans le cadre de la formation Udemy de **Jonas Schme
 - [Supabase](https://supabase.com/) – Backend-as-a-Service (base de données, auth, API)
 - [Vercel](https://vercel.com/) – Hébergement et déploiement
 
-## 📦 Installation
+## 📦 Clonez le repo :
 
-1. Clonez le repo :
    ```bash
    git clone https://github.com/votre-utilisateur/the-wild-oasis.git
    cd the-wild-oasis
